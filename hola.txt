@@ -3,7 +3,12 @@ hola!
 Se agrego esta linea desde el editor en web!
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Sigo agregando lineas!
+=======
+
+tercera modificcacion
+>>>>>>> Stashed changes
 =======
 
 tercera modificcacion
